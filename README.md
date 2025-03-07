@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--👩‍💻 3rd Year CSE Student @ VIT
--💡 Passionate about coding and tech innovation 
--🌱 Eager to learn and grow!
+- 👩‍💻 3rd Year CSE Student @ VIT
+- 💡 Passionate about coding and tech innovation
+- 🌱 Eager to learn and grow!
